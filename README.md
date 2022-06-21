@@ -19,9 +19,9 @@ Rendo graças a Deus, a DIO e a TQI por mais esse desafio concluído.
 
 #### Ao final foram deixados os seguintes desafios:
 
-[✔️] - Tente implementar os eventos usando o método `addEventListener`.
-[✔️] - Crie condicionais que desabilitam o botão de incrementar ou decrementar quando `count` chegar a um determinado valor (ex.: 0 <= count =< 10). Para possibilitar o próximo desafio utilizamos o intervalo entre -5 <= 0 =< 5.
-[✔️] - Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo.
+- [✔️] - Tente implementar os eventos usando o método `addEventListener`.
+- [✔️] - Crie condicionais que desabilitam o botão de incrementar ou decrementar quando `count` chegar a um determinado valor (ex.: 0 <= count =< 10). Para possibilitar o próximo desafio utilizamos o intervalo entre -5 <= 0 =< 5.
+- [✔️] - Mude a cor do texto em `CURRENT_NUMBER` para vermelho quando o número for negativo.
 
 Todos os desafios foram cumpridos!
 
